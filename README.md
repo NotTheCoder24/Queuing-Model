@@ -1,4 +1,4 @@
-# Queuing-Model
+# Inventory-Model
 Simulated an inventory model for a given lead time, holding cost and per item cost.
 
 Assumptions Made 
